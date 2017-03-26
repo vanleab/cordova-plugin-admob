@@ -21,7 +21,7 @@
         <clobbers target="window.plugins.AdMob" />
     </js-module>
 
-    <dependency id="cordova-admobsdk"/>
+    <!--<dependency id="cordova-admobsdk"/>-->
 
     <!-- android -->
     <!-- android, now build with gradle instead of ant -->
