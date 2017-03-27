@@ -15,15 +15,6 @@ import com.google.android.gms.ads.mediation.admob.AdMobExtras;
 import com.google.android.gms.common.ConnectionResult;
 import com.google.android.gms.common.GooglePlayServicesUtil;
 
-
-/* ------ */
-import com.google.android.gms.ads.AdListener;
-import com.google.android.gms.ads.AdRequest;
-import com.google.android.gms.ads.AdView;
-import com.google.android.gms.ads.InterstitialAd;
-/* ------ */
-
-
 import org.apache.cordova.*;
 import org.apache.cordova.PluginResult.Status;
 import org.json.JSONArray;
