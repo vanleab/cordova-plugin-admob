@@ -42,8 +42,8 @@
                 <param name="onload" value="true" />
             </feature>
         </config-file>
-        <!--<source-file src="src/android/AdMob.java" target-dir="src/com/rjfun/cordova/plugin" />-->
-	<source-file src="AdMob.java" target-dir="src/com/rjfun/cordova/plugin" />
+        
+	<source-file src="src/android/AdMob.java" target-dir="src/com/rjfun/cordova/plugin" />
 
         <!-- cordova CLI using gradle and it's working well
         <framework src="com.google.android.gms:play-services-ads:+" /> -->
